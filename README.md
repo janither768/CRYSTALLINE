@@ -1,4 +1,4 @@
-✦ C R Y S T A L L I N E ✦
+ C R Y S T A L L I N E 
 a JUPITERVISION sub-project
 
 Somewhere between the source and the screen, detail is lost. Crystalline goes looking for it.
